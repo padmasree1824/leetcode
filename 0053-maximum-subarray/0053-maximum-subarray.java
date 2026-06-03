@@ -4,10 +4,10 @@ class Solution {
         int maxSum = nums[0];
 
         for (int i = 1; i < nums.length; i++) {
-            // Either start new subarray or continue existing one
+            
             currentSum = Math.max(nums[i], currentSum + nums[i]);
 
-            // Update maximum sum
+           
             maxSum = Math.max(maxSum, currentSum);
         }
 
