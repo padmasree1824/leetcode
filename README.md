@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/padmasree1824/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/padmasree1824/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/padmasree1824/leetcode/tree/master/0014-longest-common-prefix) |
+| [0412-fizz-buzz](https://github.com/padmasree1824/leetcode/tree/master/0412-fizz-buzz) |
 ## Sliding Window
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/padmasree1824/leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/padmasree1824/leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/padmasree1824/leetcode/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/padmasree1824/leetcode/tree/master/0412-fizz-buzz) |
 ## Recursion
 |  |
 | ------- |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/padmasree1824/leetcode/tree/master/0231-power-of-two) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/padmasree1824/leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
