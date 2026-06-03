@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/padmasree1824/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/padmasree1824/leetcode/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/padmasree1824/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/padmasree1824/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/padmasree1824/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/padmasree1824/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/padmasree1824/leetcode/tree/master/0013-roman-to-integer) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/padmasree1824/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## String
 |  |
 | ------- |
