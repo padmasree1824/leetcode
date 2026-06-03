@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/padmasree1824/leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/padmasree1824/leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/padmasree1824/leetcode/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/padmasree1824/leetcode/tree/master/0367-valid-perfect-square) |
 ## Recursion
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/padmasree1824/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0367-valid-perfect-square](https://github.com/padmasree1824/leetcode/tree/master/0367-valid-perfect-square) |
 ## Divide and Conquer
 |  |
 | ------- |
