@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/padmasree1824/leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/padmasree1824/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/padmasree1824/leetcode/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/padmasree1824/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/padmasree1824/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/padmasree1824/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/padmasree1824/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/padmasree1824/leetcode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/padmasree1824/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/padmasree1824/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/padmasree1824/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/padmasree1824/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## String
 |  |
