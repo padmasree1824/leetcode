@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/padmasree1824/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/padmasree1824/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/padmasree1824/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/padmasree1824/leetcode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/padmasree1824/leetcode/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/padmasree1824/leetcode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/padmasree1824/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/padmasree1824/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/padmasree1824/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/padmasree1824/leetcode/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/padmasree1824/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/padmasree1824/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/padmasree1824/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/padmasree1824/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/padmasree1824/leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/padmasree1824/leetcode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/padmasree1824/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/padmasree1824/leetcode/tree/master/0242-valid-anagram) |
 ## Memoization
 |  |
