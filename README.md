@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/padmasree1824/leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/padmasree1824/leetcode/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/padmasree1824/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/padmasree1824/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Recursion
 |  |
 | ------- |
@@ -164,10 +165,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/padmasree1824/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/padmasree1824/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/padmasree1824/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/padmasree1824/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
